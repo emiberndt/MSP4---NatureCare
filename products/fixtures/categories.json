@@ -1,0 +1,67 @@
+[{
+    "pk": 1,
+    "model": "products.category",
+    "fields": {
+        "name": "bath",
+        "friendly_name": "Bath Salt"
+    }
+}, {
+    "pk": 2,
+    "model": "products.category",
+    "fields": {
+        "name": "bodybutter",
+        "friendly_name": "Body Butter"
+    }
+}, {
+    "pk": 3,
+    "model": "products.category",
+    "fields": {
+        "name": "daycream",
+        "friendly_name": "Day Cream"
+    }
+}, {
+    "pk": 4,
+    "model": "products.category",
+    "fields": {
+        "name": "nightcream",
+        "friendly_name": "Night Cream"
+    }
+}, {
+    "pk": 5,
+    "model": "products.category",
+    "fields": {
+        "name": "serum",
+        "friendly_name": "Serum"
+    }
+}, {
+    "pk": 6,
+    "model": "products.category",
+    "fields": {
+        "name": "shower",
+        "friendly_name": "Shower Gel"
+    }
+
+}, {
+    "pk": 7,
+    "model": "products.category",
+    "fields": {
+        "name": "soap",
+        "friendly_name": "Soap"
+    }
+
+}, {
+    "pk": 8,
+    "model": "products.category",
+    "fields": {
+    "name": "special",
+    "friendly_name": "Special Offer"
+    }
+
+    }, {
+        "pk": 9,
+        "model": "products.category",
+        "fields": {
+        "name": "new",
+        "friendly_name": "New Arrival"
+        }    
+}]

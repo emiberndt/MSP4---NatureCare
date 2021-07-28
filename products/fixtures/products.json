@@ -1,0 +1,144 @@
+[{
+        "pk": 1,
+        "model": "products.product",
+        "fields": {
+        "sku": "bath001",
+        "name": "Bath Salt - Sent of Pink Flowers",
+        "description": "Give your bath time a boost with our fragrant Bath Salt. More than your average bath, we’ve blended flowers known for being soothing. This product leaves dry skin feeling hydrated, nourished and comforted. Best of all, it leaves your skin looking healthier and scented like summer flowers. Self-care never smelled so good.",
+        "price": 19.95,
+        "category": 1,
+        "image": "/media/bath.jpg"
+        }
+    }, {
+        "pk": 2,
+        "model": "products.product",
+        "fields": {
+        "sku": "bath002",
+        "name": "Bath Salt - Sent of Lavender",
+        "description": "Give your bath time a boost with our fragrant Bath Salt. More than your average bath, we’ve blended lavender known for being soothing and calming. This product leaves dry skin feeling hydrated, nourished and comforted. Best of all, it will make you sleep better. Self-care never smelled so good.",
+        "price": 21.95,
+        "category": 1,
+        "image": "/media/bath2.jpeg"
+        }
+    }, {
+        "pk": 3,
+        "model": "products.product",
+        "fields": {
+        "sku": "body001",
+        "name": "Body Butter - Cream of Coconut",
+        "description": "Give your skin a boost with our fragrant Body Butter. We’ve blended coconut known for being soothing and calming. This product leaves dry skin feeling hydrated all day and all night, nourished and comforted.",
+        "price": 26.95,
+        "category": 2,
+        "image": "/media/bodybutter.jpeg"
+        }
+    }, {
+        "pk": 4,
+        "model": "products.product",
+        "fields": {
+        "sku": "body002",
+        "name": "Body Butter - Cream of Dragon Fruit",
+        "description": "Give your skin a boost with our fragrant Body Butter. We’ve blended dragon fruit known for giving the skin that summer glow. This product leaves dry skin feeling hydrated and glowing all day and all night.",
+        "price": 26.95,
+        "category": 2,
+        "image": "/media/bodybutter2.jpeg"
+        }
+    }, {
+        "pk": 6,
+        "model": "products.product",
+        "fields": {
+        "sku": "day001",
+        "name": "Day Cream - Touch of Silk",
+        "description": "Give your skin softness like you've never experienced before. Only the best vitamines and minerals known for giving the skin that silky touch.",
+        "price": 34.95,
+        "category": 3,
+        "image": "/media/daycream.jpg"
+        }
+    }, {
+        "pk": 7,
+        "model": "products.product",
+        "fields": {
+        "sku": "day002",
+        "name": "Day Cream - Vitamin Boost",
+        "description": "Give your skin a real vitamin boost like you've never experienced before. Only the best vitamines known for giving the skin that healthy glow.",
+        "price": 34.95,
+        "category": 3,
+        "image": "/media/daycream2.jpg"
+        }
+    }, {
+        "pk": 8,
+        "model": "products.product",
+        "fields": {
+        "sku": "night001",
+        "name": "Night Cream - Recharge",
+        "description": "Give your skin a real recharge for the evening. Only the best ingredients known for giving the skin the rest it needs to look it's best in the morning.",
+        "price": 49.95,
+        "category": 4,
+        "image": "/media/nightcream.jpg"
+        }
+    }, {
+        "pk": 9,
+        "model": "products.product",
+        "fields": {
+        "sku": "night002",
+        "name": "Night Cream - Calming",
+        "description": "Give your skin a real calming feeling for the evening. Only the best ingredients known for giving the skin the rest it needs to look it's best in the morning.",
+        "price": 49.95,
+        "category": 4,
+        "image": "/media/nightcream2.jpg"
+        }
+    }, {
+        "pk": 10,
+        "model": "products.product",
+        "fields": {
+        "sku": "serum001",
+        "name": "Serum - The Only Serum",
+        "description": "This serum needs no introduction. The Only Serum is what we're most known for and have won numerous awards for its miriacles for your skin.",
+        "price": 64.95,
+        "category": 5,
+        "image": "/media/serum.jpeg"
+        }
+    }, {
+        "pk": 11,
+        "model": "products.product",
+        "fields": {
+        "sku": "shower001",
+        "name": "Shower Gel - A Natural",
+        "description": "Give your shower a boost with our non-fragrant Shower Gel. Not too much of that normal shower gel sent, just get clean and get a sent of nature.",
+        "price": 22.95,
+        "category": 6,
+        "image": "/media/showergel.jpg"
+        }
+    }, {
+        "pk": 12,
+        "model": "products.product",
+        "fields": {
+        "sku": "soap001",
+        "name": "Soap - Green Tea",
+        "description": "This wonder soap can be used for both body and face. It is know for its cleaning properties, and is recommended for problem skin. Leaves a soft mint sent.",
+        "price": 15.95,
+        "category": 7,
+        "image": "/media/soap.jpeg"
+        }
+    }, {
+        "pk": 13,
+        "model": "products.product",
+        "fields": {
+        "sku": "soap002",
+        "name": "Soap - Milky",
+        "description": "This wonder soap can be used for both body and face. It is know for creating moisture, and is recommended for dry skin. Leaves a soft vanilla sent.",
+        "price": 15.95,
+        "category": 7,
+        "image": "/media/soap2.jpg"
+        }
+    }, {
+        "pk": 14,
+        "model": "products.product",
+        "fields": {
+        "sku": "soap003",
+        "name": "Soap - Double Up!",
+        "description": "Why only get one soap, when you can get them both!",
+        "price": 25.95,
+        "category": 7,
+        "image": "/media/soap3.jpg"
+        }
+    }]

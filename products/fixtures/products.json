@@ -29,7 +29,7 @@
         "description": "Give your skin a boost with our fragrant Body Butter. We’ve blended coconut known for being soothing and calming. This product leaves dry skin feeling hydrated all day and all night, nourished and comforted.",
         "price": 26.95,
         "category": 2,
-        "image": "bodybutter.jpeg"
+        "image": "bodybutter.png"
         }
     }, {
         "pk": 4,
@@ -43,7 +43,7 @@
         "image": "bodybutter2.jpeg"
         }
     }, {
-        "pk": 6,
+        "pk": 5,
         "model": "products.product",
         "fields": {
         "sku": "day001",
@@ -51,10 +51,10 @@
         "description": "Give your skin softness like you've never experienced before. Only the best vitamines and minerals known for giving the skin that silky touch.",
         "price": 34.95,
         "category": 3,
-        "image": "daycream.jpg"
+        "image": "daycream.png"
         }
     }, {
-        "pk": 7,
+        "pk": 6,
         "model": "products.product",
         "fields": {
         "sku": "day002",
@@ -65,7 +65,7 @@
         "image": "daycream2.jpg"
         }
     }, {
-        "pk": 8,
+        "pk": 7,
         "model": "products.product",
         "fields": {
         "sku": "night001",
@@ -76,7 +76,7 @@
         "image": "nightcream.jpg"
         }
     }, {
-        "pk": 9,
+        "pk": 8,
         "model": "products.product",
         "fields": {
         "sku": "night002",
@@ -87,7 +87,7 @@
         "image": "nightcream2.jpg"
         }
     }, {
-        "pk": 10,
+        "pk": 9,
         "model": "products.product",
         "fields": {
         "sku": "serum001",
@@ -95,10 +95,10 @@
         "description": "This serum needs no introduction. The Only Serum is what we're most known for and have won numerous awards for its miriacles for your skin.",
         "price": 64.95,
         "category": 5,
-        "image": "serum.jpeg"
+        "image": "serum.png"
         }
     }, {
-        "pk": 11,
+        "pk": 10,
         "model": "products.product",
         "fields": {
         "sku": "shower001",
@@ -109,7 +109,7 @@
         "image": "showergel.jpg"
         }
     }, {
-        "pk": 12,
+        "pk": 11,
         "model": "products.product",
         "fields": {
         "sku": "soap001",
@@ -117,10 +117,10 @@
         "description": "This wonder soap can be used for both body and face. It is know for its cleaning properties, and is recommended for problem skin. Leaves a soft mint sent.",
         "price": 15.95,
         "category": 7,
-        "image": "soap.jpeg"
+        "image": "soap2.jpeg"
         }
     }, {
-        "pk": 13,
+        "pk": 12,
         "model": "products.product",
         "fields": {
         "sku": "soap002",
@@ -128,10 +128,10 @@
         "description": "This wonder soap can be used for both body and face. It is know for creating moisture, and is recommended for dry skin. Leaves a soft vanilla sent.",
         "price": 15.95,
         "category": 7,
-        "image": "soap2.jpg"
+        "image": "soap.jpg"
         }
     }, {
-        "pk": 14,
+        "pk": 13,
         "model": "products.product",
         "fields": {
         "sku": "soap003",

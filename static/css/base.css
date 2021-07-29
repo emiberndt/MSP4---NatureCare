@@ -57,7 +57,7 @@ body {
 .btn-black:hover,
 .btn-black:active,
 .btn-black:focus {
-    background: pink;
+    background: black;
     color: white;
 }
 
